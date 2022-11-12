@@ -45,4 +45,6 @@
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
+![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
